@@ -5,9 +5,9 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "Hugo theme for a secure, blazing fast and SEO-ready static website, using Bootstrap 5."
-images = ['images/logo.svg','images/site-feature-image.png']
-mainMenuLogo = "images/logo.svg"
+description = "A platform for extracting resume information and matching job seekers with relevant opportunities."
+images = ['images/final_logo.png', 'images/final_logo.svg']
+mainMenuLogo = "images/final_logo.svg"
 
 # For favicons
 ## Chrome Browser
