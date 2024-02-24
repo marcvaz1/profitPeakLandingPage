@@ -10,12 +10,12 @@ These are features that are currently implemented in ResumeOCR, and which are hi
 
 1. As a job seeker, I want to upload my resume in various formats (PDF, Word, etc.) to ResumeOCR, so the platform can extract relevant information from it.
 2. As a job seeker, I want ResumeOCR to analyze my resume and extract key details such as skills, experience, education, and contact information.
-3. As a job seeker, I want ResumeOCR to match my skills and experience with relevant job opportunities from various sources, such as job boards and company websites.
+3. As a recruiter or employer, I want to receive notifications when new candidates matching my criteria are available, ensuring I don't miss out on potential hires.
 
 ### Other Features
 
 1. As a recruiter or employer, I want to search for candidates based on specific criteria such as skills, experience level, and location, so I can find the best matches for job openings.
-2. As a recruiter or employer, I want to receive notifications when new candidates matching my criteria are available, ensuring I don't miss out on potential hires.
+2. As a job seeker, I want ResumeOCR to match my skills and experience with relevant job opportunities from various sources, such as job boards and company websites.
 3. As a recruiter or employer, I want to view detailed profiles of candidates, including their extracted resume information and any additional documents they've uploaded.
 
 ## Potential Features Expansion
