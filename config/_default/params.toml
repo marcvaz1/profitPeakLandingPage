@@ -5,7 +5,6 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-description = "A platform for extracting resume information and matching job seekers with relevant opportunities."
 images = ['images/final_logo.png', 'images/final_logo.svg']
 mainMenuLogo = "images/final_logo.svg"
 
