@@ -1,7 +1,7 @@
-baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
+author = "Marc Vaz"
+baseURL = 'https://marcvaz1.github.io/hugo-mock-landing-page/'
+copyright = "Marc Vaz"
 title = "ResumeOCR"
-author = "Filipe Carneiro"
-copyright = "Open-source <a class=\"text-muted text-decoration-none\" href=\"https://github.com/marcvaz1/hugo-kicking-the-tires/blob/main/LICENSE\">MIT</a> Licensed."
 
 timeZone = 'Europe/London'
 
