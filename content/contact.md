@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/marcvaz1/hugo-kicking-the-tires-autodeployed/issues/new) on GitHub.
+[Open an issue](https://github.com/marcvaz1/hugo-mock-landing-page-autodeployed/issues/new) on GitHub.
