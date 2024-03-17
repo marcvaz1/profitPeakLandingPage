@@ -1,6 +1,0 @@
-[[social]]
-  name = "GitHub"
-  pre = "<svg xmlns='http://www.w3.org/2000/svg' class='feather feather-github'><use href='/hugo-bootstrap-theme/images/feather/feather-sprite.svg#github'/></svg>"
-  url = "https://github.com/marcvaz1/"
-  weight = 10
-  title = "Visit the GitHub project"
