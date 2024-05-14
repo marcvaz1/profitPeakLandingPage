@@ -5,7 +5,7 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-images = ['images/pplogo.png']
+images = ['images/pplogo.png', 'images/image1.png', 'images/image2.png']
 mainMenuLogo = "images/pplogo.png"
 
 # For favicons
