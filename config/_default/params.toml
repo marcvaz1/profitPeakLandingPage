@@ -5,8 +5,8 @@
 # https://gohugo.io/templates/internal/#twitter-cards
 # https://schema.org/Thing
 # https://schema.org/Article
-images = ['images/final_logo.png', 'images/final_logo.svg']
-mainMenuLogo = "images/final_logo.svg"
+images = ['images/pplogo.png']
+mainMenuLogo = "images/pplogo.png"
 
 # For favicons
 ## Chrome Browser
