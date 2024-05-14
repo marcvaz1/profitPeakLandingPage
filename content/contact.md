@@ -8,4 +8,4 @@ menu:
 
 # Contact
 
-[Open an issue](https://github.com/marcvaz1/profitPeak-LandingPage/issues/new) on GitHub.
+[Open an issue](https://github.com/aabdel0181/profitpeak/issues/new) on GitHub.
